@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Java Leaderboard</title>
+        <link rel="stylesheet" href="../css/style.css" />
+    </head>
+    <body>
+        <header>
+            <div class="header-container">
+                <a class="header-logo" href="/">
+                    <img src="../img/mineplex.png" alt="Mineplex Logo" />
+                    <h2>Mineplex Java Statistics</h2>
+                </a>
+            </div>
+
+            <nav>
+                <a href="../bedrock">Bedrock</a>
+                <a href="../java">Java</a>
+                <a href="../">Home</a>
+            </nav>
+        </header>
+
+        <main>
+            <h1 id="game-title" class="game-title">Loading...</h1>
+
+            <div id="leaderboard-container">
+                <table id="leaderboard">
+                    <thead>
+                        <tr>
+                            <th>Place</th>
+                            <th>Username</th>
+                            <th>Score</th>
+                        </tr>
+                    </thead>
+                    <tbody id="leaderboard-body">
+                        <!-- JavaScript will populate leaderboard rows here -->
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Pagination controls -->
+            <div id="pagination" class="pagination">
+                <a href="#" id="prev-game" class="prev">Previous</a>
+                <a href="#" id="next-game" class="next">Next</a>
+            </div>
+        </main>
+
+        <script>
+            // Extract the game identifier from the URL parameters
+            const urlParams = new URLSearchParams(window.location.search);
+            const gameId = urlParams.get('game');
+
+            // Fetch the list of games
+            fetch('../data/javaGames.json')
+                .then((response) => response.json())
+                .then((games) => {
+                    // Find the current game in the list
+                    const currentGameIndex = games.findIndex((game) => game.id === gameId);
+                    if (currentGameIndex === -1) {
+                        document.getElementById('game-title').textContent = 'Game Not Found';
+                        return;
+                    }
+
+                    const currentGame = games[currentGameIndex];
+                    const prevGame = games[currentGameIndex - 1 < 0 ? games.length - 1 : currentGameIndex - 1];
+                    const nextGame = games[currentGameIndex + 1 >= games.length ? 0 : currentGameIndex + 1];
+
+                    // Set the game title and populate the leaderboard
+                    document.getElementById('game-title').textContent = currentGame.name || 'Leaderboard';
+
+                    fetch(`../data/java/${gameId}.json`)
+                        .then((response) => response.json())
+                        .then((data) => {
+                            const leaderboardBody = document.getElementById('leaderboard-body');
+                            data.players.forEach((player, index) => {
+                                const row = document.createElement('tr');
+                                row.innerHTML = `
+                                    <td>${index + 1}</td>
+                                    <td>${player.username}</td>
+                                    <td>${player.score}</td>
+                                `;
+                                leaderboardBody.appendChild(row);
+                            });
+                        })
+                        .catch(() => {
+                            document.getElementById('game-title').textContent = 'Leaderboard Data Not Found';
+                        });
+
+                    // Handle Previous and Next game links
+                    const prevLink = document.getElementById('prev-game');
+                    const nextLink = document.getElementById('next-game');
+
+                    if (prevGame) {
+                        prevLink.href = `./leaderboard.html?game=${prevGame.id}`;
+                    } else {
+                        prevLink.style.visibility = 'hidden'; // Hide if no previous game
+                    }
+
+                    if (nextGame) {
+                        nextLink.href = `./leaderboard.html?game=${nextGame.id}`;
+                    } else {
+                        nextLink.style.visibility = 'hidden'; // Hide if no next game
+                    }
+                })
+                .catch(() => {
+                    document.getElementById('game-title').textContent = 'Game List Not Found';
+                });
+        </script>
+    </body>
+</html>

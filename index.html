@@ -1,11 +1,40 @@
 <!DOCTYPE html>
-<head>
-  <title>Mineplex Bedrock Statistics Data</title>
-</head>
-<body>
-  <a href="/MostRecentData/botstats.html">Bot Stats</a><br>
-  <a href="/MostRecentData/commands.html">Command Stats</a><br>
-  <a href="/MostRecentData/bedrock.html">Latest Data (Bedrock)</a><br>
-  <a href="/MostRecentData/java.html">Latest Data (Java)</a><br>
-</body>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Mineplex Statistics Dashboard</title>
+        <link rel="stylesheet" href="./css/style.css" />
+    </head>
+    <body>
+        <header>
+            <div class="header-container">
+                <a class="header-logo" href="/">
+                    <img src="./img/mineplex.png" alt="Mineplex Logo" />
+                    <h2>Mineplex Statistics</h2>
+                </a>
+            </div>
+
+            <nav>
+                <a href="./bedrock">Bedrock</a>
+                <a href="./java">Java</a>
+                <a href="./">Home</a>
+            </nav>
+        </header>
+
+        <main>
+            <section class="intro">
+                <h2>Welcome to Mineplex Statistics!</h2>
+                <p>Select your preferred game mode to explore leaderboards and player stats.</p>
+                <div class="game-links">
+                    <a href="./bedrock" class="game-link">Bedrock Games</a>
+                    <a href="./java" class="game-link">Java Games</a>
+                </div>
+                <div class="game-links">
+                    <a href="./bot/stats.html" class="game-link">Bot Stats</a>
+                    <a href="./bot/commands.html" class="game-link">Bot Command Stats</a>
+                </div>
+            </section>
+        </main>
+    </body>
 </html>

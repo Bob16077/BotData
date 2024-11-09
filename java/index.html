@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Mineplex Java Games</title>
+        <link rel="stylesheet" href="../css/style.css" />
+    </head>
+    <body>
+        <header>
+            <div class="header-container">
+                <a class="header-logo" href="/">
+                    <img src="../img/mineplex.png" alt="Mineplex Logo" />
+                    <h2>Mineplex Java Statistics</h2>
+                </a>
+            </div>
+
+            <nav>
+                <a href="../bedrock">Bedrock</a>
+                <a href="./">Java</a>
+                <a href="../">Home</a>
+            </nav>
+        </header>
+
+        <main>
+            <div id="game-grid" class="grid-container">
+                <!-- Game tiles will be inserted here by JavaScript -->
+            </div>
+        </main>
+
+        <script>
+            // Function to fetch Java games data and populate the grid
+            async function loadGames() {
+                try {
+                    // Fetch the game data from the JSON file
+                    const response = await fetch('/data/javaGames.json');
+                    const games = await response.json();
+
+                    // Get the game grid container
+                    const gameGrid = document.getElementById('game-grid');
+
+                    // Populate the game grid with game tiles
+                    games.forEach((game) => {
+                        const gameTile = document.createElement('a');
+                        gameTile.href = `./leaderboard.html?game=${game.id}`;
+                        gameTile.className = 'game-tile';
+                        gameTile.innerHTML = `
+                        ${game.img ? `<img src="${game.img}" alt="${game.name}">` : ''}
+                        <div class="game-name">${game.name}</div>
+                    `;
+                        gameGrid.appendChild(gameTile);
+                    });
+                } catch (error) {
+                    console.error('Error loading game data:', error);
+                }
+            }
+
+            // Load games when the page is ready
+            loadGames();
+        </script>
+    </body>
+</html>

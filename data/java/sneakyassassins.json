@@ -1,0 +1,4005 @@
+{
+    "name": "Sneaky Assassins",
+    "players": [
+        {
+            "username": "KingTrame",
+            "score": 2012
+        },
+        {
+            "username": "magicampersand",
+            "score": 1925
+        },
+        {
+            "username": "sqndl",
+            "score": 1755
+        },
+        {
+            "username": "Quote_C",
+            "score": 1620
+        },
+        {
+            "username": "mab8400",
+            "score": 1424
+        },
+        {
+            "username": "cthtraeth",
+            "score": 1308
+        },
+        {
+            "username": "Majinnee",
+            "score": 1269
+        },
+        {
+            "username": "Tramontane",
+            "score": 1207
+        },
+        {
+            "username": "poke482fan",
+            "score": 1021
+        },
+        {
+            "username": "Looniitick",
+            "score": 1001
+        },
+        {
+            "username": "lmaoluke",
+            "score": 948
+        },
+        {
+            "username": "HeckinGay",
+            "score": 841
+        },
+        {
+            "username": "Rane",
+            "score": 746
+        },
+        {
+            "username": "SensibleAnt2",
+            "score": 662
+        },
+        {
+            "username": "BagelZone",
+            "score": 583
+        },
+        {
+            "username": "OraNgeCruShh",
+            "score": 561
+        },
+        {
+            "username": "kookieluv1",
+            "score": 561
+        },
+        {
+            "username": "zLina",
+            "score": 513
+        },
+        {
+            "username": "WizardZombie",
+            "score": 496
+        },
+        {
+            "username": "Vorpyy",
+            "score": 487
+        },
+        {
+            "username": "JN_PlayzMC",
+            "score": 483
+        },
+        {
+            "username": "salmander65",
+            "score": 479
+        },
+        {
+            "username": "EarlGreyLatte",
+            "score": 476
+        },
+        {
+            "username": "DrinkMTNDEW",
+            "score": 472
+        },
+        {
+            "username": "LuckyArizona",
+            "score": 470
+        },
+        {
+            "username": "JuiceeBox",
+            "score": 460
+        },
+        {
+            "username": "Serenetii",
+            "score": 457
+        },
+        {
+            "username": "Nervixx",
+            "score": 450
+        },
+        {
+            "username": "Sawga2",
+            "score": 440
+        },
+        {
+            "username": "D_Stroyer5954",
+            "score": 420
+        },
+        {
+            "username": "char507",
+            "score": 402
+        },
+        {
+            "username": "cysk",
+            "score": 377
+        },
+        {
+            "username": "JKT115",
+            "score": 375
+        },
+        {
+            "username": "hottstuff1717",
+            "score": 372
+        },
+        {
+            "username": "yungpunk",
+            "score": 355
+        },
+        {
+            "username": "jacke1201",
+            "score": 350
+        },
+        {
+            "username": "Nyan0",
+            "score": 349
+        },
+        {
+            "username": "Malisiv",
+            "score": 344
+        },
+        {
+            "username": "Rekkaba",
+            "score": 344
+        },
+        {
+            "username": "Crumplex",
+            "score": 324
+        },
+        {
+            "username": "twec",
+            "score": 318
+        },
+        {
+            "username": "Aesthetes",
+            "score": 299
+        },
+        {
+            "username": "NDP03",
+            "score": 298
+        },
+        {
+            "username": "Cartix",
+            "score": 289
+        },
+        {
+            "username": "2000SuperSilver",
+            "score": 289
+        },
+        {
+            "username": "Wezsley",
+            "score": 287
+        },
+        {
+            "username": "PhiloFiloo",
+            "score": 284
+        },
+        {
+            "username": "Thekidpplhate",
+            "score": 280
+        },
+        {
+            "username": "ItzCqnadian",
+            "score": 279
+        },
+        {
+            "username": "Sunset_Sojourner",
+            "score": 274
+        },
+        {
+            "username": "jewclient",
+            "score": 271
+        },
+        {
+            "username": "Molish",
+            "score": 271
+        },
+        {
+            "username": "5Doum",
+            "score": 270
+        },
+        {
+            "username": "Theeepicguy",
+            "score": 262
+        },
+        {
+            "username": "wuanfruit",
+            "score": 262
+        },
+        {
+            "username": "DDblocks_a_lot",
+            "score": 250
+        },
+        {
+            "username": "Binocular",
+            "score": 249
+        },
+        {
+            "username": "kkaybugga13",
+            "score": 248
+        },
+        {
+            "username": "kkittykat",
+            "score": 247
+        },
+        {
+            "username": "Mat196",
+            "score": 247
+        },
+        {
+            "username": "PhoenixSummoning",
+            "score": 246
+        },
+        {
+            "username": "Instant_Max",
+            "score": 246
+        },
+        {
+            "username": "Heycameron55",
+            "score": 245
+        },
+        {
+            "username": "breezycardigan",
+            "score": 244
+        },
+        {
+            "username": "nwang888",
+            "score": 244
+        },
+        {
+            "username": "HelenDS",
+            "score": 241
+        },
+        {
+            "username": "smexyranch",
+            "score": 239
+        },
+        {
+            "username": "hamclan",
+            "score": 236
+        },
+        {
+            "username": "Jeorge_",
+            "score": 235
+        },
+        {
+            "username": "Pizzazilla",
+            "score": 231
+        },
+        {
+            "username": "Tomeroo",
+            "score": 227
+        },
+        {
+            "username": "filijewsian",
+            "score": 224
+        },
+        {
+            "username": "EpicSonicPumped",
+            "score": 224
+        },
+        {
+            "username": "Jusmat10",
+            "score": 221
+        },
+        {
+            "username": "mzddy",
+            "score": 221
+        },
+        {
+            "username": "StripiestSumo7",
+            "score": 219
+        },
+        {
+            "username": "UGotRektByASteve",
+            "score": 219
+        },
+        {
+            "username": "emewy",
+            "score": 217
+        },
+        {
+            "username": "ChocolateDG2",
+            "score": 214
+        },
+        {
+            "username": "I___Am___Groot",
+            "score": 214
+        },
+        {
+            "username": "legoman2m",
+            "score": 211
+        },
+        {
+            "username": "jaak88",
+            "score": 211
+        },
+        {
+            "username": "JayBird",
+            "score": 211
+        },
+        {
+            "username": "allisohn",
+            "score": 210
+        },
+        {
+            "username": "Osutogaroa",
+            "score": 209
+        },
+        {
+            "username": "coughmeyer",
+            "score": 209
+        },
+        {
+            "username": "Piranha252",
+            "score": 209
+        },
+        {
+            "username": "TheMouldyPotato",
+            "score": 209
+        },
+        {
+            "username": "Swonk",
+            "score": 207
+        },
+        {
+            "username": "Keroia",
+            "score": 207
+        },
+        {
+            "username": "N0819D",
+            "score": 206
+        },
+        {
+            "username": "Smells",
+            "score": 205
+        },
+        {
+            "username": "Mr_Siamese",
+            "score": 200
+        },
+        {
+            "username": "nagicyan_desu",
+            "score": 197
+        },
+        {
+            "username": "oue",
+            "score": 195
+        },
+        {
+            "username": "SoulTheBunny",
+            "score": 194
+        },
+        {
+            "username": "Zurina",
+            "score": 193
+        },
+        {
+            "username": "xxMinStarxx",
+            "score": 193
+        },
+        {
+            "username": "xFearful",
+            "score": 193
+        },
+        {
+            "username": "Skylord_G",
+            "score": 193
+        },
+        {
+            "username": "DomeBoi",
+            "score": 192
+        },
+        {
+            "username": "_Krompirko_",
+            "score": 189
+        },
+        {
+            "username": "Shysoul48",
+            "score": 189
+        },
+        {
+            "username": "Beausy",
+            "score": 188
+        },
+        {
+            "username": "CustardCreamie",
+            "score": 186
+        },
+        {
+            "username": "JQE",
+            "score": 186
+        },
+        {
+            "username": "IrocAce",
+            "score": 186
+        },
+        {
+            "username": "XJuiraun",
+            "score": 186
+        },
+        {
+            "username": "SmallBigSpoon",
+            "score": 184
+        },
+        {
+            "username": "iLone",
+            "score": 182
+        },
+        {
+            "username": "Destinia",
+            "score": 182
+        },
+        {
+            "username": "CJPlayzYT",
+            "score": 181
+        },
+        {
+            "username": "recordheat",
+            "score": 180
+        },
+        {
+            "username": "Teslq",
+            "score": 180
+        },
+        {
+            "username": "Unfavorites",
+            "score": 178
+        },
+        {
+            "username": "FutureShop",
+            "score": 176
+        },
+        {
+            "username": "Angel_vdx",
+            "score": 176
+        },
+        {
+            "username": "VeryNicee",
+            "score": 175
+        },
+        {
+            "username": "Rian8337",
+            "score": 174
+        },
+        {
+            "username": "AppleSenpai07",
+            "score": 174
+        },
+        {
+            "username": "Slanyet",
+            "score": 174
+        },
+        {
+            "username": "TheLoKeyLoki",
+            "score": 173
+        },
+        {
+            "username": "ImParalyzed",
+            "score": 173
+        },
+        {
+            "username": "Dufuduxxx",
+            "score": 169
+        },
+        {
+            "username": "Smarthamster9",
+            "score": 169
+        },
+        {
+            "username": "AustinSucksAtMC",
+            "score": 169
+        },
+        {
+            "username": "makkarpov",
+            "score": 168
+        },
+        {
+            "username": "D__Wan",
+            "score": 168
+        },
+        {
+            "username": "MattteaMischief",
+            "score": 168
+        },
+        {
+            "username": "Vaux_Echo",
+            "score": 168
+        },
+        {
+            "username": "Spacegod007",
+            "score": 168
+        },
+        {
+            "username": "locomexican557",
+            "score": 167
+        },
+        {
+            "username": "tonkhla",
+            "score": 167
+        },
+        {
+            "username": "LuxWolffenstein",
+            "score": 167
+        },
+        {
+            "username": "Zerolized",
+            "score": 167
+        },
+        {
+            "username": "XanXan",
+            "score": 167
+        },
+        {
+            "username": "TwentyOnePies",
+            "score": 166
+        },
+        {
+            "username": "LegoDan527",
+            "score": 165
+        },
+        {
+            "username": "Eclipse2002",
+            "score": 164
+        },
+        {
+            "username": "BluPlays",
+            "score": 164
+        },
+        {
+            "username": "gorathon",
+            "score": 164
+        },
+        {
+            "username": "Trippy_Tea",
+            "score": 163
+        },
+        {
+            "username": "Zihwa",
+            "score": 163
+        },
+        {
+            "username": "DbT",
+            "score": 162
+        },
+        {
+            "username": "Sonicdash0",
+            "score": 162
+        },
+        {
+            "username": "Autumnfound",
+            "score": 162
+        },
+        {
+            "username": "tabbycat1",
+            "score": 161
+        },
+        {
+            "username": "iLovePoptarts",
+            "score": 161
+        },
+        {
+            "username": "twistedcosmo",
+            "score": 161
+        },
+        {
+            "username": "LordGravity",
+            "score": 161
+        },
+        {
+            "username": "00994500",
+            "score": 161
+        },
+        {
+            "username": "100Scar",
+            "score": 160
+        },
+        {
+            "username": "TooeleJedi",
+            "score": 159
+        },
+        {
+            "username": "Shell345",
+            "score": 159
+        },
+        {
+            "username": "otokohaookami",
+            "score": 159
+        },
+        {
+            "username": "Endorian",
+            "score": 158
+        },
+        {
+            "username": "SameBeaches",
+            "score": 157
+        },
+        {
+            "username": "Alexo_2020",
+            "score": 157
+        },
+        {
+            "username": "SkylineLights",
+            "score": 157
+        },
+        {
+            "username": "DWJosh",
+            "score": 157
+        },
+        {
+            "username": "Zalozz",
+            "score": 156
+        },
+        {
+            "username": "Sponkeh",
+            "score": 156
+        },
+        {
+            "username": "SoulBreaker2002",
+            "score": 156
+        },
+        {
+            "username": "Enazia",
+            "score": 156
+        },
+        {
+            "username": "ShyPegasus",
+            "score": 155
+        },
+        {
+            "username": "kevinsane",
+            "score": 155
+        },
+        {
+            "username": "EsiJones",
+            "score": 155
+        },
+        {
+            "username": "TheDogDR",
+            "score": 155
+        },
+        {
+            "username": "karenlzrg",
+            "score": 154
+        },
+        {
+            "username": "Mennoo_",
+            "score": 154
+        },
+        {
+            "username": "cathorse",
+            "score": 154
+        },
+        {
+            "username": "butterminer101",
+            "score": 152
+        },
+        {
+            "username": "liquiidnachos",
+            "score": 152
+        },
+        {
+            "username": "kscode911",
+            "score": 152
+        },
+        {
+            "username": "DylAndrewBJ",
+            "score": 151
+        },
+        {
+            "username": "SpiritedArren",
+            "score": 151
+        },
+        {
+            "username": "Sartael",
+            "score": 151
+        },
+        {
+            "username": "Wileen",
+            "score": 150
+        },
+        {
+            "username": "urmomsloveaffair",
+            "score": 149
+        },
+        {
+            "username": "rraainn",
+            "score": 149
+        },
+        {
+            "username": "Arno777",
+            "score": 149
+        },
+        {
+            "username": "EknineEd1385",
+            "score": 149
+        },
+        {
+            "username": "DuoFace",
+            "score": 148
+        },
+        {
+            "username": "TheMisfits",
+            "score": 148
+        },
+        {
+            "username": "Yannik___",
+            "score": 148
+        },
+        {
+            "username": "hypenotist",
+            "score": 148
+        },
+        {
+            "username": "Milkycreampuff",
+            "score": 148
+        },
+        {
+            "username": "Conflagration_",
+            "score": 147
+        },
+        {
+            "username": "Forswear",
+            "score": 147
+        },
+        {
+            "username": "WickederMonkey9",
+            "score": 146
+        },
+        {
+            "username": "Oopo790",
+            "score": 146
+        },
+        {
+            "username": "DietSugar",
+            "score": 146
+        },
+        {
+            "username": "BumpyPlays",
+            "score": 146
+        },
+        {
+            "username": "DreamerSpring",
+            "score": 145
+        },
+        {
+            "username": "scottygoldenxl",
+            "score": 144
+        },
+        {
+            "username": "NEET_PEET",
+            "score": 144
+        },
+        {
+            "username": "rilau",
+            "score": 144
+        },
+        {
+            "username": "Reql",
+            "score": 143
+        },
+        {
+            "username": "NuclearPolarBear",
+            "score": 143
+        },
+        {
+            "username": "iCar",
+            "score": 143
+        },
+        {
+            "username": "Blissth",
+            "score": 142
+        },
+        {
+            "username": "minecraftoscar9",
+            "score": 142
+        },
+        {
+            "username": "sixbreadsticks",
+            "score": 142
+        },
+        {
+            "username": "YouLostYourLife",
+            "score": 142
+        },
+        {
+            "username": "wrmf",
+            "score": 142
+        },
+        {
+            "username": "_Azy",
+            "score": 142
+        },
+        {
+            "username": "Oyy",
+            "score": 141
+        },
+        {
+            "username": "velvetdreaming",
+            "score": 140
+        },
+        {
+            "username": "Ayav",
+            "score": 139
+        },
+        {
+            "username": "N0HaxJustQuacks",
+            "score": 139
+        },
+        {
+            "username": "2Number9s",
+            "score": 138
+        },
+        {
+            "username": "xEnded",
+            "score": 138
+        },
+        {
+            "username": "Retro_dudes",
+            "score": 138
+        },
+        {
+            "username": "DeductiveOne",
+            "score": 138
+        },
+        {
+            "username": "Isabeeel",
+            "score": 137
+        },
+        {
+            "username": "veer333",
+            "score": 137
+        },
+        {
+            "username": "Rebel_Guy",
+            "score": 137
+        },
+        {
+            "username": "Chesschoco2513",
+            "score": 136
+        },
+        {
+            "username": "Spicey_Bricey",
+            "score": 136
+        },
+        {
+            "username": "kittenOD",
+            "score": 136
+        },
+        {
+            "username": "AirInAirOut",
+            "score": 136
+        },
+        {
+            "username": "IHasName",
+            "score": 135
+        },
+        {
+            "username": "NeverGame",
+            "score": 135
+        },
+        {
+            "username": "IYgoob",
+            "score": 135
+        },
+        {
+            "username": "Evz",
+            "score": 135
+        },
+        {
+            "username": "mlnty",
+            "score": 134
+        },
+        {
+            "username": "Milotic333",
+            "score": 134
+        },
+        {
+            "username": "Hunguslard",
+            "score": 134
+        },
+        {
+            "username": "flippersslide",
+            "score": 134
+        },
+        {
+            "username": "Rez_",
+            "score": 134
+        },
+        {
+            "username": "Frogling_",
+            "score": 134
+        },
+        {
+            "username": "Dzeividz",
+            "score": 133
+        },
+        {
+            "username": "Snooball2000",
+            "score": 133
+        },
+        {
+            "username": "Xukuwu",
+            "score": 133
+        },
+        {
+            "username": "Starclone",
+            "score": 133
+        },
+        {
+            "username": "Raymondv",
+            "score": 133
+        },
+        {
+            "username": "Acebit",
+            "score": 133
+        },
+        {
+            "username": "moneyhero123",
+            "score": 132
+        },
+        {
+            "username": "andyman0707",
+            "score": 132
+        },
+        {
+            "username": "Megalodon_2005",
+            "score": 132
+        },
+        {
+            "username": "Abstractt",
+            "score": 132
+        },
+        {
+            "username": "Purplepikmin74",
+            "score": 132
+        },
+        {
+            "username": "99LightMan",
+            "score": 131
+        },
+        {
+            "username": "the1_guy_4",
+            "score": 131
+        },
+        {
+            "username": "Ethoid",
+            "score": 130
+        },
+        {
+            "username": "Daudy",
+            "score": 130
+        },
+        {
+            "username": "AlconW",
+            "score": 130
+        },
+        {
+            "username": "Aubs222",
+            "score": 130
+        },
+        {
+            "username": "MetroMiguel27",
+            "score": 130
+        },
+        {
+            "username": "JS2018",
+            "score": 130
+        },
+        {
+            "username": "oj990",
+            "score": 130
+        },
+        {
+            "username": "SkullTrumpet",
+            "score": 130
+        },
+        {
+            "username": "edon543Empire",
+            "score": 130
+        },
+        {
+            "username": "143_Jordan_143",
+            "score": 130
+        },
+        {
+            "username": "Idut",
+            "score": 129
+        },
+        {
+            "username": "Richeh",
+            "score": 129
+        },
+        {
+            "username": "DylanDC14",
+            "score": 129
+        },
+        {
+            "username": "Katherhino",
+            "score": 129
+        },
+        {
+            "username": "RegularDodger",
+            "score": 129
+        },
+        {
+            "username": "ThePumpkinIKing",
+            "score": 129
+        },
+        {
+            "username": "xokait",
+            "score": 129
+        },
+        {
+            "username": "MASTS",
+            "score": 128
+        },
+        {
+            "username": "Virtualis",
+            "score": 128
+        },
+        {
+            "username": "oStefan",
+            "score": 128
+        },
+        {
+            "username": "_Gravel_",
+            "score": 128
+        },
+        {
+            "username": "Mr_Spock19",
+            "score": 127
+        },
+        {
+            "username": "Squishy_Lemon",
+            "score": 127
+        },
+        {
+            "username": "SlapHappyPope",
+            "score": 126
+        },
+        {
+            "username": "Peter4498",
+            "score": 126
+        },
+        {
+            "username": "ttfirebubbles",
+            "score": 125
+        },
+        {
+            "username": "Alexiem",
+            "score": 125
+        },
+        {
+            "username": "jxcvb",
+            "score": 125
+        },
+        {
+            "username": "GooberDayz",
+            "score": 125
+        },
+        {
+            "username": "flayeme",
+            "score": 125
+        },
+        {
+            "username": "iPollox",
+            "score": 124
+        },
+        {
+            "username": "LeukocyteR",
+            "score": 124
+        },
+        {
+            "username": "Shantex",
+            "score": 124
+        },
+        {
+            "username": "DinoIraque",
+            "score": 124
+        },
+        {
+            "username": "WhyYouNoDie",
+            "score": 124
+        },
+        {
+            "username": "Chilledstep",
+            "score": 124
+        },
+        {
+            "username": "connor528",
+            "score": 124
+        },
+        {
+            "username": "Muto3",
+            "score": 124
+        },
+        {
+            "username": "TijnGames001",
+            "score": 124
+        },
+        {
+            "username": "TheJanitor",
+            "score": 124
+        },
+        {
+            "username": "Justintime777",
+            "score": 123
+        },
+        {
+            "username": "Rassilon83",
+            "score": 123
+        },
+        {
+            "username": "riyley",
+            "score": 123
+        },
+        {
+            "username": "thealwaysseen",
+            "score": 123
+        },
+        {
+            "username": "mmm_gang",
+            "score": 122
+        },
+        {
+            "username": "WhatShadowsFear",
+            "score": 122
+        },
+        {
+            "username": "VoidAndShade",
+            "score": 122
+        },
+        {
+            "username": "NelleTella",
+            "score": 121
+        },
+        {
+            "username": "Ruffroni",
+            "score": 121
+        },
+        {
+            "username": "SnowNub",
+            "score": 121
+        },
+        {
+            "username": "xkllr0928x",
+            "score": 121
+        },
+        {
+            "username": "ImLeftClicking",
+            "score": 121
+        },
+        {
+            "username": "hexlotl",
+            "score": 121
+        },
+        {
+            "username": "1mi",
+            "score": 121
+        },
+        {
+            "username": "ZenoPlay",
+            "score": 121
+        },
+        {
+            "username": "verninaa",
+            "score": 121
+        },
+        {
+            "username": "Lunix",
+            "score": 120
+        },
+        {
+            "username": "Nekrosion",
+            "score": 120
+        },
+        {
+            "username": "xDun58",
+            "score": 120
+        },
+        {
+            "username": "Kytato",
+            "score": 120
+        },
+        {
+            "username": "Oranqes",
+            "score": 119
+        },
+        {
+            "username": "TaySaucePan",
+            "score": 119
+        },
+        {
+            "username": "Commander_Storm_",
+            "score": 119
+        },
+        {
+            "username": "Tommygun3000",
+            "score": 119
+        },
+        {
+            "username": "Anairda",
+            "score": 119
+        },
+        {
+            "username": "iamzario",
+            "score": 118
+        },
+        {
+            "username": "Anthony1010tex",
+            "score": 118
+        },
+        {
+            "username": "Lopa",
+            "score": 118
+        },
+        {
+            "username": "SloppyMatt",
+            "score": 118
+        },
+        {
+            "username": "aToxMC",
+            "score": 118
+        },
+        {
+            "username": "boo_bug13",
+            "score": 118
+        },
+        {
+            "username": "Baecn",
+            "score": 118
+        },
+        {
+            "username": "ur21",
+            "score": 118
+        },
+        {
+            "username": "yanddere",
+            "score": 117
+        },
+        {
+            "username": "MrJaa",
+            "score": 117
+        },
+        {
+            "username": "ChubToadSUN",
+            "score": 116
+        },
+        {
+            "username": "AmericanTaxpayer",
+            "score": 116
+        },
+        {
+            "username": "surferboy808",
+            "score": 116
+        },
+        {
+            "username": "PetrelliCz",
+            "score": 116
+        },
+        {
+            "username": "MineBuster1000",
+            "score": 116
+        },
+        {
+            "username": "MajorFrosty",
+            "score": 116
+        },
+        {
+            "username": "blueloving",
+            "score": 116
+        },
+        {
+            "username": "DarkHunter_IV",
+            "score": 116
+        },
+        {
+            "username": "Artistically",
+            "score": 116
+        },
+        {
+            "username": "happyheart",
+            "score": 116
+        },
+        {
+            "username": "endlessly",
+            "score": 115
+        },
+        {
+            "username": "Crafty1cal",
+            "score": 115
+        },
+        {
+            "username": "Smart_Kitty",
+            "score": 115
+        },
+        {
+            "username": "TrueNub",
+            "score": 115
+        },
+        {
+            "username": "SkyswordTK",
+            "score": 115
+        },
+        {
+            "username": "purplEsword",
+            "score": 115
+        },
+        {
+            "username": "PS1",
+            "score": 114
+        },
+        {
+            "username": "0kgg",
+            "score": 114
+        },
+        {
+            "username": "DILLTHEPILL05",
+            "score": 114
+        },
+        {
+            "username": "Guala_Guala",
+            "score": 114
+        },
+        {
+            "username": "DarkHerobrine10",
+            "score": 114
+        },
+        {
+            "username": "Bikkie",
+            "score": 114
+        },
+        {
+            "username": "FailGiraffes",
+            "score": 114
+        },
+        {
+            "username": "Fourmizzz",
+            "score": 114
+        },
+        {
+            "username": "WinterCupCake",
+            "score": 114
+        },
+        {
+            "username": "nfco",
+            "score": 114
+        },
+        {
+            "username": "Day_Br3aK3R",
+            "score": 113
+        },
+        {
+            "username": "OleAAA",
+            "score": 113
+        },
+        {
+            "username": "awardspower",
+            "score": 113
+        },
+        {
+            "username": "prhncess",
+            "score": 113
+        },
+        {
+            "username": "_______l________",
+            "score": 113
+        },
+        {
+            "username": "skalby",
+            "score": 112
+        },
+        {
+            "username": "goatd",
+            "score": 112
+        },
+        {
+            "username": "Kiiwie",
+            "score": 112
+        },
+        {
+            "username": "PaintersDaughter",
+            "score": 112
+        },
+        {
+            "username": "urmotherisahoe",
+            "score": 112
+        },
+        {
+            "username": "evidentlyfresh",
+            "score": 112
+        },
+        {
+            "username": "WeebDoc",
+            "score": 112
+        },
+        {
+            "username": "MLG_Patrickstar",
+            "score": 112
+        },
+        {
+            "username": "SupBuddiez",
+            "score": 112
+        },
+        {
+            "username": "EvilApels",
+            "score": 111
+        },
+        {
+            "username": "kingjaynes37",
+            "score": 111
+        },
+        {
+            "username": "DogeEternally",
+            "score": 111
+        },
+        {
+            "username": "iTest",
+            "score": 111
+        },
+        {
+            "username": "Notaker",
+            "score": 111
+        },
+        {
+            "username": "1000tepig",
+            "score": 111
+        },
+        {
+            "username": "Nerdguy97",
+            "score": 110
+        },
+        {
+            "username": "SKgames",
+            "score": 110
+        },
+        {
+            "username": "AoCheng",
+            "score": 110
+        },
+        {
+            "username": "OfflineTV",
+            "score": 110
+        },
+        {
+            "username": "ThatJava",
+            "score": 110
+        },
+        {
+            "username": "hankiedoodle",
+            "score": 110
+        },
+        {
+            "username": "DiligentDagger",
+            "score": 110
+        },
+        {
+            "username": "JoeyGamer",
+            "score": 109
+        },
+        {
+            "username": "OneFlavour",
+            "score": 109
+        },
+        {
+            "username": "Serine1002",
+            "score": 109
+        },
+        {
+            "username": "Jaakey",
+            "score": 109
+        },
+        {
+            "username": "nimajneb3215",
+            "score": 109
+        },
+        {
+            "username": "Leqh",
+            "score": 108
+        },
+        {
+            "username": "WookieesAndMilk",
+            "score": 108
+        },
+        {
+            "username": "SouthFloriDUDE",
+            "score": 108
+        },
+        {
+            "username": "emeraldfire42",
+            "score": 108
+        },
+        {
+            "username": "YTK_BOWSER",
+            "score": 108
+        },
+        {
+            "username": "RatMite69",
+            "score": 108
+        },
+        {
+            "username": "gabbymorr",
+            "score": 108
+        },
+        {
+            "username": "the_derpy_derp",
+            "score": 107
+        },
+        {
+            "username": "Sir_Marquette",
+            "score": 107
+        },
+        {
+            "username": "FAndresR",
+            "score": 107
+        },
+        {
+            "username": "dustydave",
+            "score": 107
+        },
+        {
+            "username": "Soroh",
+            "score": 107
+        },
+        {
+            "username": "landkrabben1",
+            "score": 107
+        },
+        {
+            "username": "TheKingVillager",
+            "score": 106
+        },
+        {
+            "username": "Watermelon_PvP",
+            "score": 106
+        },
+        {
+            "username": "coconutcowgirl",
+            "score": 106
+        },
+        {
+            "username": "Zachhary",
+            "score": 106
+        },
+        {
+            "username": "xsloby",
+            "score": 106
+        },
+        {
+            "username": "VigroX",
+            "score": 106
+        },
+        {
+            "username": "Pabulous",
+            "score": 106
+        },
+        {
+            "username": "WeatherWX",
+            "score": 106
+        },
+        {
+            "username": "Akwazy",
+            "score": 106
+        },
+        {
+            "username": "TheLizardGamer",
+            "score": 106
+        },
+        {
+            "username": "24drawoH",
+            "score": 106
+        },
+        {
+            "username": "spookis",
+            "score": 106
+        },
+        {
+            "username": "JuanShadeOfJose",
+            "score": 105
+        },
+        {
+            "username": "TacoCat_GD",
+            "score": 105
+        },
+        {
+            "username": "spaceflood",
+            "score": 105
+        },
+        {
+            "username": "Dylbl",
+            "score": 105
+        },
+        {
+            "username": "Atomic_Panda",
+            "score": 105
+        },
+        {
+            "username": "peter_tha_gamer",
+            "score": 105
+        },
+        {
+            "username": "ItsCanada",
+            "score": 105
+        },
+        {
+            "username": "Fishywillow",
+            "score": 105
+        },
+        {
+            "username": "aid0322",
+            "score": 105
+        },
+        {
+            "username": "Solei",
+            "score": 105
+        },
+        {
+            "username": "Dejectin",
+            "score": 105
+        },
+        {
+            "username": "Bata1987",
+            "score": 105
+        },
+        {
+            "username": "Veinticinco",
+            "score": 105
+        },
+        {
+            "username": "DaUltimateCheese",
+            "score": 105
+        },
+        {
+            "username": "Ambuchi",
+            "score": 105
+        },
+        {
+            "username": "pierdo",
+            "score": 105
+        },
+        {
+            "username": "rodcad66",
+            "score": 104
+        },
+        {
+            "username": "CrazyEmelie",
+            "score": 104
+        },
+        {
+            "username": "V_Man776",
+            "score": 104
+        },
+        {
+            "username": "OriTsa",
+            "score": 104
+        },
+        {
+            "username": "WAKO35",
+            "score": 104
+        },
+        {
+            "username": "Cori",
+            "score": 104
+        },
+        {
+            "username": "woim",
+            "score": 104
+        },
+        {
+            "username": "Solongos",
+            "score": 104
+        },
+        {
+            "username": "waitwhen",
+            "score": 104
+        },
+        {
+            "username": "LunarDust",
+            "score": 104
+        },
+        {
+            "username": "PolarBear__",
+            "score": 104
+        },
+        {
+            "username": "MusicPokey101",
+            "score": 103
+        },
+        {
+            "username": "videochaff",
+            "score": 103
+        },
+        {
+            "username": "inzaiinn",
+            "score": 103
+        },
+        {
+            "username": "Repize_",
+            "score": 103
+        },
+        {
+            "username": "xItzBrandon_",
+            "score": 103
+        },
+        {
+            "username": "Zeloz",
+            "score": 103
+        },
+        {
+            "username": "mhomiller",
+            "score": 103
+        },
+        {
+            "username": "Pro2Quagmire",
+            "score": 103
+        },
+        {
+            "username": "meamguy5",
+            "score": 103
+        },
+        {
+            "username": "NinjaMario02",
+            "score": 102
+        },
+        {
+            "username": "t_rao",
+            "score": 102
+        },
+        {
+            "username": "Herissa",
+            "score": 102
+        },
+        {
+            "username": "CavityOfPeanal",
+            "score": 102
+        },
+        {
+            "username": "Super_Sen",
+            "score": 102
+        },
+        {
+            "username": "budgie1010",
+            "score": 102
+        },
+        {
+            "username": "BAS",
+            "score": 102
+        },
+        {
+            "username": "depressies",
+            "score": 102
+        },
+        {
+            "username": "shn_17",
+            "score": 102
+        },
+        {
+            "username": "IronSquire",
+            "score": 102
+        },
+        {
+            "username": "Fluorohydride",
+            "score": 101
+        },
+        {
+            "username": "Pineaholic",
+            "score": 101
+        },
+        {
+            "username": "Logah",
+            "score": 101
+        },
+        {
+            "username": "iMakeOnionsCry",
+            "score": 101
+        },
+        {
+            "username": "evanmoney",
+            "score": 101
+        },
+        {
+            "username": "Pamphlet",
+            "score": 101
+        },
+        {
+            "username": "Nightfury000",
+            "score": 101
+        },
+        {
+            "username": "NoHaxJustBaymax",
+            "score": 101
+        },
+        {
+            "username": "xHero",
+            "score": 101
+        },
+        {
+            "username": "Fuzzycoco",
+            "score": 101
+        },
+        {
+            "username": "GangstaGoose",
+            "score": 100
+        },
+        {
+            "username": "Ishymata",
+            "score": 100
+        },
+        {
+            "username": "LIQHTNESS",
+            "score": 100
+        },
+        {
+            "username": "Hjelmby",
+            "score": 100
+        },
+        {
+            "username": "Kelloying",
+            "score": 100
+        },
+        {
+            "username": "jaskagaga",
+            "score": 100
+        },
+        {
+            "username": "Wuelis",
+            "score": 100
+        },
+        {
+            "username": "JoshuaBC2004",
+            "score": 100
+        },
+        {
+            "username": "liqhts",
+            "score": 100
+        },
+        {
+            "username": "dinohunter32",
+            "score": 100
+        },
+        {
+            "username": "Gremy",
+            "score": 100
+        },
+        {
+            "username": "Vessyl_",
+            "score": 100
+        },
+        {
+            "username": "Craftings",
+            "score": 100
+        },
+        {
+            "username": "Artgeologist",
+            "score": 100
+        },
+        {
+            "username": "SleepyMercy",
+            "score": 99
+        },
+        {
+            "username": "nanimlg",
+            "score": 99
+        },
+        {
+            "username": "MARKTHENUB",
+            "score": 99
+        },
+        {
+            "username": "Edcrafty",
+            "score": 99
+        },
+        {
+            "username": "Overwatchh",
+            "score": 99
+        },
+        {
+            "username": "amorelai",
+            "score": 99
+        },
+        {
+            "username": "lilpumpstoes",
+            "score": 99
+        },
+        {
+            "username": "Theminerscode",
+            "score": 99
+        },
+        {
+            "username": "nice_io",
+            "score": 99
+        },
+        {
+            "username": "SoraTheBlank",
+            "score": 98
+        },
+        {
+            "username": "Zouleika",
+            "score": 98
+        },
+        {
+            "username": "darkmancze",
+            "score": 98
+        },
+        {
+            "username": "FrozenDawn",
+            "score": 98
+        },
+        {
+            "username": "MLPFIMiscool",
+            "score": 98
+        },
+        {
+            "username": "Kakapo_Jack",
+            "score": 98
+        },
+        {
+            "username": "FozMulder",
+            "score": 98
+        },
+        {
+            "username": "TheClassyIdiot",
+            "score": 98
+        },
+        {
+            "username": "Aschenbrenner",
+            "score": 98
+        },
+        {
+            "username": "pcm1k",
+            "score": 98
+        },
+        {
+            "username": "Zesshi_Zetsumei",
+            "score": 98
+        },
+        {
+            "username": "HoggiePoggie",
+            "score": 98
+        },
+        {
+            "username": "EclipsePlaysHD",
+            "score": 98
+        },
+        {
+            "username": "Alennx",
+            "score": 98
+        },
+        {
+            "username": "Monovo",
+            "score": 98
+        },
+        {
+            "username": "Declaimer",
+            "score": 98
+        },
+        {
+            "username": "kiocyr",
+            "score": 97
+        },
+        {
+            "username": "navings",
+            "score": 97
+        },
+        {
+            "username": "TheXDepredador",
+            "score": 97
+        },
+        {
+            "username": "MyGrandpa",
+            "score": 97
+        },
+        {
+            "username": "YouTakeTooManyLs",
+            "score": 97
+        },
+        {
+            "username": "Exameter",
+            "score": 97
+        },
+        {
+            "username": "JacobConakry",
+            "score": 97
+        },
+        {
+            "username": "Skthefiredancer",
+            "score": 97
+        },
+        {
+            "username": "Carocherus",
+            "score": 97
+        },
+        {
+            "username": "CRAZYDESPOT",
+            "score": 97
+        },
+        {
+            "username": "Flauros_mc",
+            "score": 96
+        },
+        {
+            "username": "cRz_physx",
+            "score": 96
+        },
+        {
+            "username": "Max_The_Bunnie",
+            "score": 96
+        },
+        {
+            "username": "blubur",
+            "score": 96
+        },
+        {
+            "username": "xJaypix",
+            "score": 96
+        },
+        {
+            "username": "GotMemes",
+            "score": 96
+        },
+        {
+            "username": "c0rRuPt3d",
+            "score": 96
+        },
+        {
+            "username": "iSniffSulfur",
+            "score": 96
+        },
+        {
+            "username": "poopie_girl",
+            "score": 95
+        },
+        {
+            "username": "PlaguerU",
+            "score": 95
+        },
+        {
+            "username": "iCraftDay",
+            "score": 95
+        },
+        {
+            "username": "HonestButcher",
+            "score": 95
+        },
+        {
+            "username": "NinjaGaming360",
+            "score": 95
+        },
+        {
+            "username": "XPiggyX",
+            "score": 95
+        },
+        {
+            "username": "ZombiDud",
+            "score": 95
+        },
+        {
+            "username": "Luvher",
+            "score": 95
+        },
+        {
+            "username": "fikkothecow",
+            "score": 95
+        },
+        {
+            "username": "NotEvenMcMad",
+            "score": 95
+        },
+        {
+            "username": "enderbrine",
+            "score": 95
+        },
+        {
+            "username": "lapkingkn",
+            "score": 95
+        },
+        {
+            "username": "Pilvion",
+            "score": 95
+        },
+        {
+            "username": "SOULHARDY",
+            "score": 95
+        },
+        {
+            "username": "iZombie",
+            "score": 95
+        },
+        {
+            "username": "nekotaku",
+            "score": 95
+        },
+        {
+            "username": "ellephant",
+            "score": 95
+        },
+        {
+            "username": "GuitarHero_King",
+            "score": 95
+        },
+        {
+            "username": "Flaminghighlord",
+            "score": 95
+        },
+        {
+            "username": "neneposting",
+            "score": 94
+        },
+        {
+            "username": "Pog_CChamp",
+            "score": 94
+        },
+        {
+            "username": "Enntn",
+            "score": 94
+        },
+        {
+            "username": "Relox84",
+            "score": 94
+        },
+        {
+            "username": "Rodeen",
+            "score": 94
+        },
+        {
+            "username": "1rubberducky2",
+            "score": 94
+        },
+        {
+            "username": "Gieg",
+            "score": 94
+        },
+        {
+            "username": "Popcornflakes",
+            "score": 94
+        },
+        {
+            "username": "PiggyKun",
+            "score": 94
+        },
+        {
+            "username": "MoonBiscuits",
+            "score": 94
+        },
+        {
+            "username": "myt4u",
+            "score": 94
+        },
+        {
+            "username": "Jaek",
+            "score": 94
+        },
+        {
+            "username": "Lins__",
+            "score": 94
+        },
+        {
+            "username": "computele",
+            "score": 94
+        },
+        {
+            "username": "cubeboy06",
+            "score": 94
+        },
+        {
+            "username": "HvitMakt69",
+            "score": 94
+        },
+        {
+            "username": "jiinbo",
+            "score": 94
+        },
+        {
+            "username": "obbb",
+            "score": 94
+        },
+        {
+            "username": "Boamm",
+            "score": 94
+        },
+        {
+            "username": "cjbace",
+            "score": 94
+        },
+        {
+            "username": "Maddys_",
+            "score": 94
+        },
+        {
+            "username": "Crazy_Conner",
+            "score": 93
+        },
+        {
+            "username": "SpinnningTop",
+            "score": 93
+        },
+        {
+            "username": "SSTAW",
+            "score": 93
+        },
+        {
+            "username": "Autobug",
+            "score": 93
+        },
+        {
+            "username": "TheRealCow",
+            "score": 93
+        },
+        {
+            "username": "Zantherlord",
+            "score": 93
+        },
+        {
+            "username": "Nesty_CZ",
+            "score": 93
+        },
+        {
+            "username": "Meltdown_10",
+            "score": 93
+        },
+        {
+            "username": "GluStix",
+            "score": 93
+        },
+        {
+            "username": "Bruhandon",
+            "score": 93
+        },
+        {
+            "username": "ghjj34",
+            "score": 93
+        },
+        {
+            "username": "UBUB",
+            "score": 93
+        },
+        {
+            "username": "Cabob",
+            "score": 93
+        },
+        {
+            "username": "shadowmaker100",
+            "score": 93
+        },
+        {
+            "username": "nohwl",
+            "score": 93
+        },
+        {
+            "username": "aroth123",
+            "score": 93
+        },
+        {
+            "username": "MarrowSucker00",
+            "score": 93
+        },
+        {
+            "username": "AbnormalAliza",
+            "score": 92
+        },
+        {
+            "username": "Mine_crafter8362",
+            "score": 92
+        },
+        {
+            "username": "MasutaMaster",
+            "score": 92
+        },
+        {
+            "username": "MrNetrix",
+            "score": 92
+        },
+        {
+            "username": "Animiles",
+            "score": 92
+        },
+        {
+            "username": "YellowPastel",
+            "score": 92
+        },
+        {
+            "username": "CadeBW",
+            "score": 92
+        },
+        {
+            "username": "Oumastar",
+            "score": 92
+        },
+        {
+            "username": "rodster07",
+            "score": 92
+        },
+        {
+            "username": "chickenlylion",
+            "score": 92
+        },
+        {
+            "username": "SERW",
+            "score": 92
+        },
+        {
+            "username": "Cristhofer_Cx",
+            "score": 92
+        },
+        {
+            "username": "GLUTENFREEJELLY",
+            "score": 92
+        },
+        {
+            "username": "ForeverLonely",
+            "score": 92
+        },
+        {
+            "username": "camzar",
+            "score": 92
+        },
+        {
+            "username": "Monochromu",
+            "score": 92
+        },
+        {
+            "username": "HermitPlaysMC1",
+            "score": 92
+        },
+        {
+            "username": "_101_11",
+            "score": 92
+        },
+        {
+            "username": "BigBert10",
+            "score": 91
+        },
+        {
+            "username": "Makiz",
+            "score": 91
+        },
+        {
+            "username": "daniilusmanov21",
+            "score": 91
+        },
+        {
+            "username": "azraql",
+            "score": 91
+        },
+        {
+            "username": "TheOmegaPanda",
+            "score": 91
+        },
+        {
+            "username": "Aquliax",
+            "score": 91
+        },
+        {
+            "username": "Deluxe830",
+            "score": 91
+        },
+        {
+            "username": "Qult_",
+            "score": 91
+        },
+        {
+            "username": "DCVlD",
+            "score": 91
+        },
+        {
+            "username": "NitronianBlack",
+            "score": 91
+        },
+        {
+            "username": "DillTheKrill",
+            "score": 91
+        },
+        {
+            "username": "HotdogHippo",
+            "score": 91
+        },
+        {
+            "username": "Moist_Feet",
+            "score": 91
+        },
+        {
+            "username": "Cyah",
+            "score": 91
+        },
+        {
+            "username": "Sylax",
+            "score": 91
+        },
+        {
+            "username": "Jop_man",
+            "score": 91
+        },
+        {
+            "username": "FUzZYJUNIoR",
+            "score": 91
+        },
+        {
+            "username": "Solder",
+            "score": 91
+        },
+        {
+            "username": "War1ord",
+            "score": 91
+        },
+        {
+            "username": "rqil",
+            "score": 91
+        },
+        {
+            "username": "sabeeee",
+            "score": 90
+        },
+        {
+            "username": "TheFirstLaw",
+            "score": 90
+        },
+        {
+            "username": "Thejoester",
+            "score": 90
+        },
+        {
+            "username": "BitterVoid",
+            "score": 90
+        },
+        {
+            "username": "mkie",
+            "score": 90
+        },
+        {
+            "username": "Angelified",
+            "score": 90
+        },
+        {
+            "username": "ums",
+            "score": 90
+        },
+        {
+            "username": "bestiejordan",
+            "score": 90
+        },
+        {
+            "username": "hotintexas",
+            "score": 90
+        },
+        {
+            "username": "Aspential",
+            "score": 90
+        },
+        {
+            "username": "Auroren",
+            "score": 90
+        },
+        {
+            "username": "0verTheSky",
+            "score": 90
+        },
+        {
+            "username": "RawrMommy",
+            "score": 90
+        },
+        {
+            "username": "lincoln1909",
+            "score": 90
+        },
+        {
+            "username": "volrac",
+            "score": 90
+        },
+        {
+            "username": "Kaeduh",
+            "score": 90
+        },
+        {
+            "username": "gonzo61",
+            "score": 89
+        },
+        {
+            "username": "ItsMqrk",
+            "score": 89
+        },
+        {
+            "username": "Milomite",
+            "score": 89
+        },
+        {
+            "username": "prismatics__",
+            "score": 89
+        },
+        {
+            "username": "calsaw",
+            "score": 89
+        },
+        {
+            "username": "IRelyOnGamesense",
+            "score": 89
+        },
+        {
+            "username": "Ten9876",
+            "score": 89
+        },
+        {
+            "username": "Magic_Chickens",
+            "score": 89
+        },
+        {
+            "username": "BUGATTl",
+            "score": 89
+        },
+        {
+            "username": "Unknxwn_",
+            "score": 89
+        },
+        {
+            "username": "phff",
+            "score": 89
+        },
+        {
+            "username": "Sorbae",
+            "score": 89
+        },
+        {
+            "username": "I_am_not_here12",
+            "score": 89
+        },
+        {
+            "username": "Jekblade",
+            "score": 89
+        },
+        {
+            "username": "Nalu",
+            "score": 89
+        },
+        {
+            "username": "Adundance__",
+            "score": 89
+        },
+        {
+            "username": "WhyBuyThisGame",
+            "score": 88
+        },
+        {
+            "username": "CubeGuy33",
+            "score": 88
+        },
+        {
+            "username": "ItzGray",
+            "score": 88
+        },
+        {
+            "username": "aHidden",
+            "score": 88
+        },
+        {
+            "username": "AidedDeer",
+            "score": 88
+        },
+        {
+            "username": "breadbug4",
+            "score": 88
+        },
+        {
+            "username": "ADuckWithATopHat",
+            "score": 88
+        },
+        {
+            "username": "Tredoubur",
+            "score": 88
+        },
+        {
+            "username": "SleepiPuff",
+            "score": 88
+        },
+        {
+            "username": "Zarlem",
+            "score": 88
+        },
+        {
+            "username": "Angel2024",
+            "score": 88
+        },
+        {
+            "username": "BlackHero123",
+            "score": 88
+        },
+        {
+            "username": "ApprovedSimp",
+            "score": 88
+        },
+        {
+            "username": "HacksourceUS",
+            "score": 88
+        },
+        {
+            "username": "bwubs",
+            "score": 88
+        },
+        {
+            "username": "addictedninja64",
+            "score": 88
+        },
+        {
+            "username": "I_Am_Number_One",
+            "score": 88
+        },
+        {
+            "username": "okjingo",
+            "score": 88
+        },
+        {
+            "username": "GeekaPlaysMC",
+            "score": 88
+        },
+        {
+            "username": "N0X",
+            "score": 88
+        },
+        {
+            "username": "Wrld_Of_Juice",
+            "score": 87
+        },
+        {
+            "username": "Loit",
+            "score": 87
+        },
+        {
+            "username": "ET_master",
+            "score": 87
+        },
+        {
+            "username": "x_Thalia_x",
+            "score": 87
+        },
+        {
+            "username": "lucy11801",
+            "score": 87
+        },
+        {
+            "username": "Iampercyofficial",
+            "score": 87
+        },
+        {
+            "username": "zig_and_awesome",
+            "score": 87
+        },
+        {
+            "username": "ItsJustShark",
+            "score": 87
+        },
+        {
+            "username": "dyllanbui",
+            "score": 87
+        },
+        {
+            "username": "nsjpi",
+            "score": 87
+        },
+        {
+            "username": "_ArrowHawk_",
+            "score": 87
+        },
+        {
+            "username": "dabeefmanjr",
+            "score": 87
+        },
+        {
+            "username": "Robo_xdd",
+            "score": 87
+        },
+        {
+            "username": "Hinken1337",
+            "score": 87
+        },
+        {
+            "username": "Foxize",
+            "score": 87
+        },
+        {
+            "username": "fufill",
+            "score": 87
+        },
+        {
+            "username": "69kris",
+            "score": 87
+        },
+        {
+            "username": "waterspout",
+            "score": 87
+        },
+        {
+            "username": "KREEPERMAN201",
+            "score": 87
+        },
+        {
+            "username": "Kaiiai",
+            "score": 87
+        },
+        {
+            "username": "yraam",
+            "score": 87
+        },
+        {
+            "username": "Veryyy_seb",
+            "score": 87
+        },
+        {
+            "username": "WingsOfCourage",
+            "score": 87
+        },
+        {
+            "username": "Derp989897666616",
+            "score": 86
+        },
+        {
+            "username": "BadBrad6_",
+            "score": 86
+        },
+        {
+            "username": "5HOOT",
+            "score": 86
+        },
+        {
+            "username": "jcji",
+            "score": 86
+        },
+        {
+            "username": "RaccoonJSquirrel",
+            "score": 86
+        },
+        {
+            "username": "Mazellier",
+            "score": 86
+        },
+        {
+            "username": "SarahSummer",
+            "score": 86
+        },
+        {
+            "username": "mondos",
+            "score": 86
+        },
+        {
+            "username": "CheekyOtter",
+            "score": 86
+        },
+        {
+            "username": "Gaston0418",
+            "score": 86
+        },
+        {
+            "username": "AngeltheIncubus",
+            "score": 86
+        },
+        {
+            "username": "SadCharlie",
+            "score": 86
+        },
+        {
+            "username": "Tedsworth",
+            "score": 86
+        },
+        {
+            "username": "fakeitflowers",
+            "score": 86
+        },
+        {
+            "username": "Kya_",
+            "score": 86
+        },
+        {
+            "username": "SneakySheiky",
+            "score": 86
+        },
+        {
+            "username": "KGB_MAN",
+            "score": 86
+        },
+        {
+            "username": "Elbycraft",
+            "score": 86
+        },
+        {
+            "username": "TechShot_",
+            "score": 86
+        },
+        {
+            "username": "Netflix_",
+            "score": 86
+        },
+        {
+            "username": "WhiteBench",
+            "score": 86
+        },
+        {
+            "username": "Amielll",
+            "score": 86
+        },
+        {
+            "username": "xFallenGuardianx",
+            "score": 86
+        },
+        {
+            "username": "BlasterAce",
+            "score": 86
+        },
+        {
+            "username": "Deathranger999",
+            "score": 86
+        },
+        {
+            "username": "annnq",
+            "score": 85
+        },
+        {
+            "username": "Kulminate",
+            "score": 85
+        },
+        {
+            "username": "Dr_Dreidel",
+            "score": 85
+        },
+        {
+            "username": "OniyNg",
+            "score": 85
+        },
+        {
+            "username": "fil",
+            "score": 85
+        },
+        {
+            "username": "Amiothenes",
+            "score": 85
+        },
+        {
+            "username": "TheJosephGuy",
+            "score": 85
+        },
+        {
+            "username": "HotmailUser",
+            "score": 85
+        },
+        {
+            "username": "ECR_Chewie",
+            "score": 85
+        },
+        {
+            "username": "Chloop",
+            "score": 85
+        },
+        {
+            "username": "Aselacan",
+            "score": 85
+        },
+        {
+            "username": "Evgeen",
+            "score": 85
+        },
+        {
+            "username": "CongruousJake",
+            "score": 85
+        },
+        {
+            "username": "GamingDaily",
+            "score": 85
+        },
+        {
+            "username": "Papayis",
+            "score": 85
+        },
+        {
+            "username": "oTrey",
+            "score": 85
+        },
+        {
+            "username": "RockStarDude17",
+            "score": 84
+        },
+        {
+            "username": "eggoi",
+            "score": 84
+        },
+        {
+            "username": "RollyBall",
+            "score": 84
+        },
+        {
+            "username": "svekkie",
+            "score": 84
+        },
+        {
+            "username": "Fasteric",
+            "score": 84
+        },
+        {
+            "username": "Benjanas",
+            "score": 84
+        },
+        {
+            "username": "bruhbola21",
+            "score": 84
+        },
+        {
+            "username": "_SkyHawk_",
+            "score": 84
+        },
+        {
+            "username": "Volticxx",
+            "score": 84
+        },
+        {
+            "username": "ecyn",
+            "score": 84
+        },
+        {
+            "username": "brainbrian",
+            "score": 84
+        },
+        {
+            "username": "BurntPan",
+            "score": 84
+        },
+        {
+            "username": "makelovenotwar",
+            "score": 84
+        },
+        {
+            "username": "Firewulf976",
+            "score": 84
+        },
+        {
+            "username": "sneakylighning",
+            "score": 84
+        },
+        {
+            "username": "Shababa",
+            "score": 84
+        },
+        {
+            "username": "blly_bob_miner",
+            "score": 84
+        },
+        {
+            "username": "TNTSynergy",
+            "score": 84
+        },
+        {
+            "username": "ShyGirlJava",
+            "score": 84
+        },
+        {
+            "username": "vxhm",
+            "score": 83
+        },
+        {
+            "username": "Raptor_562",
+            "score": 83
+        },
+        {
+            "username": "CTMU",
+            "score": 83
+        },
+        {
+            "username": "DirectorLJ",
+            "score": 83
+        },
+        {
+            "username": "AgentPolarbear",
+            "score": 83
+        },
+        {
+            "username": "Ailyx",
+            "score": 83
+        },
+        {
+            "username": "YNV",
+            "score": 83
+        },
+        {
+            "username": "WandaMaximofff",
+            "score": 83
+        },
+        {
+            "username": "SporeTheAssassin",
+            "score": 83
+        },
+        {
+            "username": "SpoiledSquash21",
+            "score": 83
+        },
+        {
+            "username": "DaSouperNovah",
+            "score": 83
+        },
+        {
+            "username": "clonetrooper277",
+            "score": 83
+        },
+        {
+            "username": "Not_A_Bagel",
+            "score": 83
+        },
+        {
+            "username": "RDrago1",
+            "score": 83
+        },
+        {
+            "username": "Smiggle",
+            "score": 83
+        },
+        {
+            "username": "arizonagabe5",
+            "score": 83
+        },
+        {
+            "username": "StoneColdKiller",
+            "score": 83
+        },
+        {
+            "username": "darqie",
+            "score": 83
+        },
+        {
+            "username": "Doogry",
+            "score": 83
+        },
+        {
+            "username": "TheWildJQ",
+            "score": 83
+        },
+        {
+            "username": "Allykaty",
+            "score": 83
+        },
+        {
+            "username": "mind_Buster",
+            "score": 83
+        },
+        {
+            "username": "Isabaaat",
+            "score": 83
+        },
+        {
+            "username": "BlockEverything",
+            "score": 82
+        },
+        {
+            "username": "BigsRichards",
+            "score": 82
+        },
+        {
+            "username": "xMaverickXVI",
+            "score": 82
+        },
+        {
+            "username": "Skier",
+            "score": 82
+        },
+        {
+            "username": "WhaleRussian",
+            "score": 82
+        },
+        {
+            "username": "CmwCaelen1",
+            "score": 82
+        },
+        {
+            "username": "Xeql",
+            "score": 82
+        },
+        {
+            "username": "Emperor977",
+            "score": 82
+        },
+        {
+            "username": "__KennyS__",
+            "score": 82
+        },
+        {
+            "username": "Mithey",
+            "score": 82
+        },
+        {
+            "username": "JustInterntThngs",
+            "score": 82
+        },
+        {
+            "username": "Serendipty",
+            "score": 82
+        },
+        {
+            "username": "Light42",
+            "score": 82
+        },
+        {
+            "username": "A_Little_Light",
+            "score": 82
+        },
+        {
+            "username": "Naidemoc",
+            "score": 82
+        },
+        {
+            "username": "Aerial_Canuck",
+            "score": 82
+        },
+        {
+            "username": "WhiteCinnamon",
+            "score": 82
+        },
+        {
+            "username": "EmmaLie",
+            "score": 82
+        },
+        {
+            "username": "arj",
+            "score": 81
+        },
+        {
+            "username": "vanya_",
+            "score": 81
+        },
+        {
+            "username": "MindOnYou",
+            "score": 81
+        },
+        {
+            "username": "Floresty",
+            "score": 81
+        },
+        {
+            "username": "Kmastahh",
+            "score": 81
+        },
+        {
+            "username": "kilibooon",
+            "score": 81
+        },
+        {
+            "username": "KurtCobean",
+            "score": 81
+        },
+        {
+            "username": "rypujols",
+            "score": 81
+        },
+        {
+            "username": "amandaaaaa",
+            "score": 81
+        },
+        {
+            "username": "Zombies",
+            "score": 81
+        },
+        {
+            "username": "Magnum_01",
+            "score": 81
+        },
+        {
+            "username": "Frayed_",
+            "score": 81
+        },
+        {
+            "username": "iliketroop1234",
+            "score": 81
+        },
+        {
+            "username": "littlemancrush",
+            "score": 81
+        },
+        {
+            "username": "GreenSuigi",
+            "score": 81
+        },
+        {
+            "username": "doggos_from_mars",
+            "score": 81
+        },
+        {
+            "username": "z00mR",
+            "score": 81
+        },
+        {
+            "username": "Rubiqfuff",
+            "score": 81
+        },
+        {
+            "username": "Mariuh",
+            "score": 81
+        },
+        {
+            "username": "mr_nacho911",
+            "score": 81
+        },
+        {
+            "username": "GottaGoFasta",
+            "score": 81
+        },
+        {
+            "username": "BoxingWithBoxes",
+            "score": 81
+        },
+        {
+            "username": "AlexSa1000",
+            "score": 81
+        },
+        {
+            "username": "ValiantPxlator7",
+            "score": 81
+        },
+        {
+            "username": "PizzaMan319",
+            "score": 81
+        },
+        {
+            "username": "PeaFollowsJesus",
+            "score": 80
+        },
+        {
+            "username": "MomentoMori",
+            "score": 80
+        },
+        {
+            "username": "avivtsa",
+            "score": 80
+        },
+        {
+            "username": "LegomanZ999",
+            "score": 80
+        },
+        {
+            "username": "YoTurtleYT",
+            "score": 80
+        },
+        {
+            "username": "evynstar12omg",
+            "score": 80
+        },
+        {
+            "username": "Yoshidra",
+            "score": 80
+        },
+        {
+            "username": "__Muck",
+            "score": 80
+        },
+        {
+            "username": "Pastams",
+            "score": 80
+        },
+        {
+            "username": "ExtraRossy",
+            "score": 80
+        },
+        {
+            "username": "Th3_Impersonator",
+            "score": 80
+        },
+        {
+            "username": "Radic270",
+            "score": 80
+        },
+        {
+            "username": "whytho",
+            "score": 80
+        },
+        {
+            "username": "XLCreepers",
+            "score": 80
+        },
+        {
+            "username": "Ludrum",
+            "score": 80
+        },
+        {
+            "username": "xflare055",
+            "score": 80
+        },
+        {
+            "username": "folse",
+            "score": 80
+        },
+        {
+            "username": "JordanJacob",
+            "score": 80
+        },
+        {
+            "username": "FuzzoTheFox",
+            "score": 80
+        },
+        {
+            "username": "Prestan",
+            "score": 80
+        },
+        {
+            "username": "Ercalu",
+            "score": 80
+        },
+        {
+            "username": "depemberton",
+            "score": 80
+        },
+        {
+            "username": "thebestrock12",
+            "score": 80
+        },
+        {
+            "username": "Isilme1",
+            "score": 80
+        },
+        {
+            "username": "leo_thya",
+            "score": 80
+        },
+        {
+            "username": "Samaranth",
+            "score": 80
+        },
+        {
+            "username": "Awgmented",
+            "score": 80
+        },
+        {
+            "username": "Emyris1",
+            "score": 80
+        },
+        {
+            "username": "NerdyNinja64",
+            "score": 80
+        },
+        {
+            "username": "Strander24",
+            "score": 80
+        },
+        {
+            "username": "Hpi",
+            "score": 80
+        },
+        {
+            "username": "4cer",
+            "score": 80
+        },
+        {
+            "username": "NaymSarhard",
+            "score": 79
+        },
+        {
+            "username": "dreamer101",
+            "score": 79
+        },
+        {
+            "username": "InternetHistoria",
+            "score": 79
+        },
+        {
+            "username": "YouGotRektByMe",
+            "score": 79
+        },
+        {
+            "username": "Randomguy14x",
+            "score": 79
+        },
+        {
+            "username": "gstogi_",
+            "score": 79
+        },
+        {
+            "username": "MinamiPop",
+            "score": 79
+        },
+        {
+            "username": "ShyFie",
+            "score": 79
+        },
+        {
+            "username": "J4m35",
+            "score": 79
+        },
+        {
+            "username": "jcave0211",
+            "score": 79
+        },
+        {
+            "username": "eohch",
+            "score": 79
+        },
+        {
+            "username": "oCameronn",
+            "score": 79
+        },
+        {
+            "username": "AFK_Shadow",
+            "score": 79
+        },
+        {
+            "username": "Notrom",
+            "score": 79
+        },
+        {
+            "username": "MitchTheScout",
+            "score": 79
+        },
+        {
+            "username": "Sir_Monstaz",
+            "score": 79
+        },
+        {
+            "username": "Shabootiquiqui_",
+            "score": 79
+        },
+        {
+            "username": "EnderPlex",
+            "score": 79
+        },
+        {
+            "username": "Kawl",
+            "score": 79
+        },
+        {
+            "username": "MuriloLemos",
+            "score": 79
+        },
+        {
+            "username": "Steakchop_boy",
+            "score": 79
+        },
+        {
+            "username": "Luxely",
+            "score": 79
+        },
+        {
+            "username": "Ha_Ha_Redstone",
+            "score": 79
+        },
+        {
+            "username": "fred12456",
+            "score": 79
+        },
+        {
+            "username": "Kelsoniuss",
+            "score": 79
+        },
+        {
+            "username": "Sprazmatica",
+            "score": 79
+        },
+        {
+            "username": "MeHead",
+            "score": 79
+        },
+        {
+            "username": "fiyu_",
+            "score": 79
+        },
+        {
+            "username": "Pasta_Queen",
+            "score": 79
+        },
+        {
+            "username": "Ceqola",
+            "score": 79
+        },
+        {
+            "username": "Brianna_2016",
+            "score": 79
+        },
+        {
+            "username": "Grego",
+            "score": 79
+        },
+        {
+            "username": "Jennly",
+            "score": 78
+        },
+        {
+            "username": "Throbbing",
+            "score": 78
+        },
+        {
+            "username": "Purity22",
+            "score": 78
+        },
+        {
+            "username": "Recovs",
+            "score": 78
+        },
+        {
+            "username": "SquadraCorse",
+            "score": 78
+        },
+        {
+            "username": "ihysvm",
+            "score": 78
+        },
+        {
+            "username": "skyref2002",
+            "score": 78
+        },
+        {
+            "username": "xUmbreon",
+            "score": 78
+        },
+        {
+            "username": "joethecableguy",
+            "score": 78
+        },
+        {
+            "username": "incizion",
+            "score": 78
+        },
+        {
+            "username": "tHeDoCtOr_17",
+            "score": 78
+        },
+        {
+            "username": "Ducck",
+            "score": 78
+        },
+        {
+            "username": "miscalled",
+            "score": 78
+        },
+        {
+            "username": "darkknight5476",
+            "score": 78
+        },
+        {
+            "username": "LoliNyan",
+            "score": 78
+        },
+        {
+            "username": "Giausar",
+            "score": 78
+        },
+        {
+            "username": "RedstoneGuy04",
+            "score": 78
+        },
+        {
+            "username": "Awrush",
+            "score": 78
+        },
+        {
+            "username": "OurLordAndPotato",
+            "score": 78
+        },
+        {
+            "username": "Cyrexal",
+            "score": 78
+        },
+        {
+            "username": "Cvlib",
+            "score": 78
+        },
+        {
+            "username": "TreyRuffy",
+            "score": 78
+        },
+        {
+            "username": "xExtremelyNight",
+            "score": 78
+        },
+        {
+            "username": "NeroXever",
+            "score": 78
+        },
+        {
+            "username": "protection_IV",
+            "score": 78
+        },
+        {
+            "username": "ToughCricket",
+            "score": 78
+        },
+        {
+            "username": "Covs",
+            "score": 78
+        },
+        {
+            "username": "kidsrun",
+            "score": 78
+        },
+        {
+            "username": "Ashallayn",
+            "score": 78
+        },
+        {
+            "username": "Dengerous",
+            "score": 78
+        },
+        {
+            "username": "Kingsteel",
+            "score": 78
+        },
+        {
+            "username": "JRCA",
+            "score": 77
+        },
+        {
+            "username": "ItzKid",
+            "score": 77
+        },
+        {
+            "username": "Mr_KingBanana",
+            "score": 77
+        },
+        {
+            "username": "wwink",
+            "score": 77
+        },
+        {
+            "username": "Halo2",
+            "score": 77
+        },
+        {
+            "username": "Xoqo",
+            "score": 77
+        },
+        {
+            "username": "NotAFederalAgent",
+            "score": 77
+        },
+        {
+            "username": "XingshouScripter",
+            "score": 77
+        },
+        {
+            "username": "JustPooker",
+            "score": 77
+        },
+        {
+            "username": "Evil_Porkchops",
+            "score": 77
+        },
+        {
+            "username": "MaxwithanAxe",
+            "score": 77
+        },
+        {
+            "username": "RainbowCandy99",
+            "score": 77
+        },
+        {
+            "username": "Nmib",
+            "score": 77
+        },
+        {
+            "username": "razzitazzi",
+            "score": 77
+        },
+        {
+            "username": "TheHyruleLegend",
+            "score": 77
+        },
+        {
+            "username": "animeobama",
+            "score": 77
+        },
+        {
+            "username": "Swuge",
+            "score": 77
+        },
+        {
+            "username": "Tabou",
+            "score": 77
+        },
+        {
+            "username": "King_Seacow",
+            "score": 77
+        },
+        {
+            "username": "areyoulostbbgirl",
+            "score": 77
+        },
+        {
+            "username": "Hobbes12397",
+            "score": 77
+        },
+        {
+            "username": "Nyes",
+            "score": 77
+        },
+        {
+            "username": "JoshAngrian",
+            "score": 77
+        },
+        {
+            "username": "Epih",
+            "score": 77
+        },
+        {
+            "username": "Cliffjumper04",
+            "score": 77
+        },
+        {
+            "username": "CaptainGalaxy_",
+            "score": 77
+        },
+        {
+            "username": "TheFatSanta",
+            "score": 77
+        },
+        {
+            "username": "MrZerphix",
+            "score": 77
+        },
+        {
+            "username": "kuixincx",
+            "score": 77
+        },
+        {
+            "username": "Allstar555",
+            "score": 77
+        },
+        {
+            "username": "JihoonKiel",
+            "score": 77
+        },
+        {
+            "username": "DaBlackWidow",
+            "score": 77
+        },
+        {
+            "username": "_PROFANITY_",
+            "score": 77
+        },
+        {
+            "username": "JacketsMcFly",
+            "score": 77
+        },
+        {
+            "username": "AyAudrey",
+            "score": 77
+        },
+        {
+            "username": "Cpt_pebbles",
+            "score": 76
+        },
+        {
+            "username": "lmCursed",
+            "score": 76
+        },
+        {
+            "username": "fra_coccino",
+            "score": 76
+        },
+        {
+            "username": "SkeffVEVO",
+            "score": 76
+        },
+        {
+            "username": "DragonSlayerSwag",
+            "score": 76
+        },
+        {
+            "username": "ghaster__",
+            "score": 76
+        },
+        {
+            "username": "II_Toby_II",
+            "score": 76
+        },
+        {
+            "username": "_TisAwesome_",
+            "score": 76
+        },
+        {
+            "username": "BearPuns",
+            "score": 76
+        },
+        {
+            "username": "PAPAPJ",
+            "score": 76
+        },
+        {
+            "username": "NgtmareKngRascal",
+            "score": 76
+        },
+        {
+            "username": "Implusive",
+            "score": 76
+        },
+        {
+            "username": "SUPERIRC",
+            "score": 76
+        },
+        {
+            "username": "Herobrinevil",
+            "score": 76
+        },
+        {
+            "username": "Reckleton",
+            "score": 76
+        },
+        {
+            "username": "boo2300",
+            "score": 76
+        },
+        {
+            "username": "Keris",
+            "score": 76
+        },
+        {
+            "username": "HugeLol",
+            "score": 76
+        },
+        {
+            "username": "KilledByVoid",
+            "score": 76
+        },
+        {
+            "username": "pikminmovie",
+            "score": 76
+        },
+        {
+            "username": "Jerthebear23",
+            "score": 76
+        },
+        {
+            "username": "fluffyuncorn2013",
+            "score": 76
+        },
+        {
+            "username": "Grebe",
+            "score": 76
+        },
+        {
+            "username": "Zawolf",
+            "score": 76
+        },
+        {
+            "username": "plong_",
+            "score": 76
+        },
+        {
+            "username": "zuzii",
+            "score": 76
+        },
+        {
+            "username": "Scrubrumpa",
+            "score": 76
+        },
+        {
+            "username": "comparts",
+            "score": 75
+        },
+        {
+            "username": "FlameGD",
+            "score": 75
+        },
+        {
+            "username": "GrayDrakon",
+            "score": 75
+        },
+        {
+            "username": "Fritzafella",
+            "score": 75
+        },
+        {
+            "username": "Digital__Ninja",
+            "score": 75
+        },
+        {
+            "username": "Jackish",
+            "score": 75
+        },
+        {
+            "username": "Vincent55",
+            "score": 75
+        },
+        {
+            "username": "TomP67",
+            "score": 75
+        },
+        {
+            "username": "WatchMeHop",
+            "score": 75
+        },
+        {
+            "username": "Engaged_Rage",
+            "score": 75
+        },
+        {
+            "username": "mirlkshake",
+            "score": 75
+        },
+        {
+            "username": "Luigi9990",
+            "score": 75
+        },
+        {
+            "username": "Rad1ance",
+            "score": 75
+        },
+        {
+            "username": "The_Bingo_Dingo",
+            "score": 75
+        },
+        {
+            "username": "ChocolateDonut",
+            "score": 75
+        },
+        {
+            "username": "TheFuriousDe",
+            "score": 75
+        },
+        {
+            "username": "mommytookthekids",
+            "score": 75
+        },
+        {
+            "username": "user54637",
+            "score": 75
+        },
+        {
+            "username": "Crushseven",
+            "score": 75
+        },
+        {
+            "username": "walle6",
+            "score": 75
+        },
+        {
+            "username": "metarmask",
+            "score": 75
+        },
+        {
+            "username": "Pi_g",
+            "score": 75
+        },
+        {
+            "username": "Yelzway_MILK",
+            "score": 75
+        },
+        {
+            "username": "joserobjr",
+            "score": 75
+        },
+        {
+            "username": "rinnq",
+            "score": 75
+        },
+        {
+            "username": "_Fire_",
+            "score": 75
+        },
+        {
+            "username": "Spexon_O1",
+            "score": 75
+        },
+        {
+            "username": "MetallicLuke",
+            "score": 75
+        },
+        {
+            "username": "KeynCat",
+            "score": 75
+        },
+        {
+            "username": "TurtleTamer",
+            "score": 74
+        },
+        {
+            "username": "rejincy",
+            "score": 74
+        },
+        {
+            "username": "Lumin_8",
+            "score": 74
+        }
+    ]
+}
