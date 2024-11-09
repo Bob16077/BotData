@@ -33,7 +33,7 @@
             async function loadGames() {
                 try {
                     // Fetch the game data from the JSON file
-                    const response = await fetch('/data/bedrockGames.json');
+                    const response = await fetch('../data/bedrockGames.json');
                     const games = await response.json();
 
                     // Get the game grid container
